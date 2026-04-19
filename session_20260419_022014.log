@@ -1,0 +1,11 @@
+2026-04-19 02:20:15,191 [INFO] DilEvi: 🎤 Microphone started
+2026-04-19 02:20:15,498 [INFO] DilEvi: 🔊 Barge-in detected! Interrupting AI...
+2026-04-19 02:20:16,590 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2026-04-19 02:20:22,030 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:20:22,033 [INFO] DilEvi: 📝 Transcribed: 'you'
+2026-04-19 02:20:23,444 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 02:20:23,455 [INFO] DilEvi: 🧠 Response: 'Hmm, it seems like you might have a thought or question in m...'
+2026-04-19 02:20:23,462 [INFO] DilEvi: 🔊 Barge-in detected! Interrupting AI...
+2026-04-19 02:20:24,616 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2026-04-19 02:20:32,731 [INFO] DilEvi: 🔚 Shutting down...
+2026-04-19 02:20:32,749 [INFO] DilEvi: 🎤 Microphone stopped

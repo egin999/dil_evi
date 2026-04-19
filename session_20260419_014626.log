@@ -1,0 +1,84 @@
+[01:46:26] Starting - Amelia
+[01:46:26] 🎤 Started
+[01:46:26] 🔴 Recording
+[01:46:26] 📝 Started
+[01:46:26] 🧠 Started
+[01:46:26] 🔊 Started
+[01:46:26] 🎙️ TTS API
+[01:46:27] 🔇 No speech
+[01:46:27] Ready
+[01:46:28] ▶️ Playing 2.5s
+[01:46:30] 🔴 Recording
+[01:46:30] Wait audio...
+[01:46:30] Wait trans...
+[01:46:31] ✓ Done
+[01:46:32] ⚫ Audio 2.01s
+[01:46:32] 📡 Whisper API
+[01:46:33] ✅ 'Yes, can you talk?'
+[01:46:33] 🧠 GPT API
+[01:46:33] ✅ Ready
+[01:46:33] 🎙️ TTS API
+[01:46:35] ▶️ Playing 4.8s
+[01:46:36] Listen (frames:0, energy:0.0246)
+[01:46:36] 🔴 Recording
+[01:46:37] Wait audio...
+[01:46:37] Wait trans...
+[01:46:38] ⚫ Audio 1.29s
+[01:46:38] 📡 Whisper API
+[01:46:38] ✅ 'Bit.'
+[01:46:38] 🧠 GPT API
+[01:46:39] ✅ Ready
+[01:46:40] ✓ Done
+[01:46:40] 🎙️ TTS API
+[01:46:42] Listen (frames:0, energy:0.0221)
+[01:46:42] Wait audio...
+[01:46:43] ▶️ Playing 7.3s
+[01:46:43] Wait trans...
+[01:46:45] 🔴 Recording
+[01:46:46] Wait audio...
+[01:46:47] Wait trans...
+[01:46:48] ⚫ Audio 2.97s
+[01:46:48] 📡 Whisper API
+[01:46:49] ✅ 'No, I didn't save it, can you wait?'
+[01:46:49] 🧠 GPT API
+[01:46:49] 🔴 Recording
+[01:46:49] ✅ Ready
+[01:46:50] ✓ Done
+[01:46:50] 🔇 No speech
+[01:46:50] 🎙️ TTS API
+[01:46:51] 🔴 Recording
+[01:46:52] ▶️ Playing 4.0s
+[01:46:52] 🔇 No speech
+[01:46:53] Wait audio...
+[01:46:53] 🔴 Recording
+[01:46:53] Wait trans...
+[01:46:54] 🔇 No speech
+[01:46:55] 🔴 Recording
+[01:46:56] ✓ Done
+[01:46:57] Wait audio...
+[01:46:57] ⚫ Audio 2.40s
+[01:46:57] 📡 Whisper API
+[01:46:57] Wait trans...
+[01:46:57] 🔴 Recording
+[01:46:58] ✅ 'Do we have any other questions in the meantime?'
+[01:46:58] 🧠 GPT API
+[01:46:58] ✅ Ready
+[01:46:58] 🎙️ TTS API
+[01:47:00] ▶️ Playing 3.4s
+[01:47:01] Listen (frames:135, energy:0.0282)
+[01:47:02] Wait audio...
+[01:47:02] Wait trans...
+[01:47:03] ⚫ Audio 5.40s
+[01:47:03] 📡 Whisper API
+[01:47:04] ✓ Done
+[01:47:05] 🔴 Recording
+[01:47:06] 🔇 No speech
+[01:47:06] Wait trans...
+[01:47:07] ⚠️ Invalid: ''
+[01:47:08] Wait TTS...
+[01:47:10] Listen (frames:0, energy:0.0189)
+[01:47:10] Wait trans...
+[01:47:11] Wait audio...
+[01:47:11] Shutdown
+[01:47:12] Wait TTS...
+[01:47:12] Session saved

@@ -1,0 +1,30 @@
+[02:36:13.369] 🎤 Mikrofon dinleniyor... (Söz kesmek için konuşmanız yeterli)
+[02:36:13.420] 🔴 Ses algılandı, AI susturuldu ve kayıt başladı.
+[02:36:14.073] ✅ Cümle bitti, işlemeye gönderildi.
+[02:36:15.113] ⏱ Whisper çevirisi 1.04 saniye sürdü.
+[02:36:15.372] 🗣️ Söz kesildi, çalma işlemi iptal edildi.
+[02:36:19.753] 🔴 Ses algılandı, AI susturuldu ve kayıt başladı.
+[02:36:20.677] ✅ Cümle bitti, işlemeye gönderildi.
+[02:36:21.260] ⏱ Whisper çevirisi 0.58 saniye sürdü.
+[02:36:24.877] ❌ TTS veya Çalma hatası: dtype mismatch: 'float64' vs 'float32'
+[02:36:28.093] 🔴 Ses algılandı, AI susturuldu ve kayıt başladı.
+[02:36:28.743] ✅ Cümle bitti, işlemeye gönderildi.
+[02:36:28.805] 🔴 Ses algılandı, AI susturuldu ve kayıt başladı.
+[02:36:30.320] ⏱ Whisper çevirisi 1.58 saniye sürdü.
+[02:36:36.129] ✅ Cümle bitti, işlemeye gönderildi.
+[02:36:36.954] ⏱ Whisper çevirisi 0.83 saniye sürdü.
+[02:36:43.962] 🔴 Ses algılandı, AI susturuldu ve kayıt başladı.
+[02:36:44.621] ✅ Cümle bitti, işlemeye gönderildi.
+[02:36:45.039] 🔴 Ses algılandı, AI susturuldu ve kayıt başladı.
+[02:36:45.487] ⏱ Whisper çevirisi 0.87 saniye sürdü.
+[02:36:47.109] ✅ Cümle bitti, işlemeye gönderildi.
+[02:36:47.171] 🔴 Ses algılandı, AI susturuldu ve kayıt başladı.
+[02:36:47.714] ⏱ Whisper çevirisi 0.60 saniye sürdü.
+[02:36:48.156] ✅ Cümle bitti, işlemeye gönderildi.
+[02:36:48.188] 🔴 Ses algılandı, AI susturuldu ve kayıt başladı.
+[02:36:48.562] ⏱ Whisper çevirisi 0.41 saniye sürdü.
+[02:36:50.137] ✅ Cümle bitti, işlemeye gönderildi.
+[02:36:50.941] ⏱ Whisper çevirisi 0.80 saniye sürdü.
+[02:37:14.883] 🔴 Ses algılandı, AI susturuldu ve kayıt başladı.
+[02:37:15.545] ✅ Cümle bitti, işlemeye gönderildi.
+[02:37:16.697] ⏱ Whisper çevirisi 1.15 saniye sürdü.

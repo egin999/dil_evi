@@ -1,0 +1,59 @@
+[01:38:26] ============================================================
+[01:38:26] 🎓 Starting English Lesson
+[01:38:26] ============================================================
+[01:38:26] Teacher: Sarah
+[01:38:26] Level: A2
+[01:38:26] Sessions completed: 1
+[01:38:26] 🎤 Microphone thread started
+[01:38:26] 🔴 Recording started
+[01:38:26] 📝 Transcription thread started
+[01:38:26] 🧠 GPT thread started
+[01:38:26] 🔊 Playback thread started
+[01:38:26] 🎙️  TTS: 'Hi! I'm Sarah. Ready to learn English?...'
+[01:38:27] ⚠️  Audio too short (0.69s), rejected
+[01:38:27] Ready for conversation
+[01:38:28] ▶️  Playing (2.4s)...
+[01:38:29] 🔥 USER TALKING - INTERRUPTING PLAYBACK
+[01:38:29] ⚡ INTERRUPTED - User started speaking
+[01:38:29] 🔴 Recording started
+[01:38:30] ⚠️  Audio too short (0.75s), rejected
+[01:38:30] Waiting for audio...
+[01:38:30] Waiting for transcription...
+[01:38:31] 🔴 Recording started
+[01:38:32] ⚫ Audio sent (20640 samples)
+[01:38:32] 📡 Sending to Whisper API...
+[01:38:33] Waiting for TTS...
+[01:38:34] Waiting for transcription...
+[01:38:35] 🔴 Recording started
+[01:38:36] ⚠️  Audio too short (0.69s), rejected
+[01:38:36] ⚠️  Text too short (0 words), rejected
+[01:38:37] 🔴 Recording started
+[01:38:37] Waiting for TTS...
+[01:38:38] ⚫ Audio sent (17280 samples)
+[01:38:38] 📡 Sending to Whisper API...
+[01:38:38] Waiting for transcription...
+[01:38:40] ⚠️  Text too short (1 words), rejected
+[01:38:40] 🔴 Recording started
+[01:38:41] Waiting for TTS...
+[01:38:42] ⚫ Audio sent (26880 samples)
+[01:38:42] 📡 Sending to Whisper API...
+[01:38:42] Waiting for transcription...
+[01:38:42] ✅ Valid transcription: 'Hello, how are you?...'
+[01:38:42] Got: 'Hello, how are you?...'
+[01:38:42] 💭 Thinking...
+[01:38:43] ✅ Response: 'Hello! I'm doing well, thank you. How are you toda...'
+[01:38:43] 🎙️  TTS: 'Hello! I'm doing well, thank you. How are you toda...'
+[01:38:45] ▶️  Playing (3.3s)...
+[01:38:46] 🔥 USER TALKING - INTERRUPTING PLAYBACK
+[01:38:46] ⚡ INTERRUPTED - User started speaking
+[01:38:46] ✓ Playback finished
+[01:38:46] 🔴 Recording started
+[01:38:47] Waiting for audio...
+[01:38:47] ⚠️  Audio too short (0.66s), rejected
+[01:38:47] 🔴 Recording started
+[01:38:47] KeyboardInterrupt received
+[01:38:47] Waiting for transcription...
+[01:38:48] Session #2 saved
+[01:38:48] ============================================================
+[01:38:48] Program shutdown complete
+[01:38:48] ============================================================

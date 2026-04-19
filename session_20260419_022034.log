@@ -1,0 +1,31 @@
+2026-04-19 02:20:35,091 [INFO] DilEvi: 🎤 Microphone started
+2026-04-19 02:20:35,408 [INFO] DilEvi: 🔊 Barge-in detected! Interrupting AI...
+2026-04-19 02:20:36,335 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2026-04-19 02:20:42,364 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:20:42,367 [INFO] DilEvi: 📝 Transcribed: 'you know'
+2026-04-19 02:20:43,289 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 02:20:43,297 [INFO] DilEvi: 🧠 Response: 'Hmm, what’s on your mind?'
+2026-04-19 02:20:43,313 [INFO] DilEvi: 🔊 Barge-in detected! Interrupting AI...
+2026-04-19 02:20:44,286 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2026-04-19 02:20:49,398 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:20:49,398 [INFO] DilEvi: 📝 Transcribed: 'You'
+2026-04-19 02:20:50,696 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-19 02:20:50,701 [INFO] DilEvi: 🧠 Response: 'Oh, me? Well, I'm here to chat and help you practice your En...'
+2026-04-19 02:20:50,707 [INFO] DilEvi: 🔊 Barge-in detected! Interrupting AI...
+2026-04-19 02:20:51,645 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2026-04-19 02:21:08,468 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:21:08,470 [INFO] DilEvi: 📝 Transcribed: 'you'
+2026-04-19 02:21:08,946 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:21:08,947 [INFO] DilEvi: 📝 Transcribed: 'you'
+2026-04-19 02:21:09,797 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:21:09,799 [INFO] DilEvi: 📝 Transcribed: 'You'
+2026-04-19 02:21:11,173 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:21:12,808 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:21:13,902 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:21:14,530 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:21:14,530 [INFO] DilEvi: 📝 Transcribed: 'You'
+2026-04-19 02:21:15,077 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:21:16,490 [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2026-04-19 02:21:16,491 [INFO] DilEvi: 📝 Transcribed: 'you'
+2026-04-19 02:21:31,821 [INFO] DilEvi: 🔚 Shutting down...
+2026-04-19 02:21:31,841 [INFO] DilEvi: 🎤 Microphone stopped

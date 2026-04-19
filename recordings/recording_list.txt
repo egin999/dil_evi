@@ -1,0 +1,18 @@
+recording_0001.wav - 50400 samples
+recording_0002.wav - 53280 samples
+recording_0001.wav (cleaned)
+recording_0002.wav (cleaned)
+recording_0003.wav (cleaned)
+recording_0004.wav (cleaned)
+recording_0005.wav (cleaned)
+recording_0006.wav (cleaned)
+recording_0007.wav (cleaned)
+recording_0008.wav (cleaned)
+recording_0009.wav (cleaned)
+recording_0010.wav (cleaned)
+recording_0011.wav (cleaned)
+recording_0012.wav (cleaned)
+recording_0013.wav (cleaned)
+recording_0014.wav (cleaned)
+recording_0015.wav (cleaned)
+recording_0016.wav (cleaned)
