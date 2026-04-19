@@ -5,17 +5,20 @@ from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
+
+
 import asyncio
 import json
 import base64
 import os
-from pathlib import Path
-from dotenv import load_dotenv
 
-from audio_io import SpeakerStream
-from realtime_client import RealtimeClient
-
-load_dotenv()
+# Render gibi sunucularda ses kartı hatası almamak için güvenli import
+try:
+    import sounddevice as sd
+    print("Ses kartı başarıyla yüklendi.")
+except (OSError, ImportError) as e:
+    sd = None
+    print(f"Ses kartı bulunamadı (Sunucu modu): {e}")
 
 app = FastAPI(title="Dil Evi")
 
